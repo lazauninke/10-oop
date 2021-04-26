@@ -16,6 +16,7 @@ class Animal {
 
     introduce() {
         console.log(`As esu ${this.name}, mano kailis ${this.color} ir moku sakyti "${this.sound}".`);
+        
     }
 }
 
